@@ -1,0 +1,49 @@
+header{background-color:#1C7CFF  ;background-image: url(https://images.pexels.com/photos/7195441/pexels-photo-7195441.jpeg?auto=compress&cs=tinysrgb&w=600) ;
+background-repeat: no-repeat;background-position: center ; padding: 40px;
+margin-top: 5px; margin-bottom: 5px;
+
+}
+
+h1{color: #000000 ;background-color:#ffffff ;opacity:0.6 ; white-space: nowrap; overflow: hidden ; text-align: center;
+}
+nav{background-color:#1AA7E8; text-align:center; font-size:24px;
+padding: 10px; margin-top: 5px; margin-bottom: 5px; 
+}
+nav a{ text-decoration: none ; padding: 10px 
+}
+nav ul{ list-style-type: none ;
+}
+nav li{ display: inline
+}
+
+h3{margin: 10px; padding: 10px;
+}
+
+.text{font-size: 22px; font-weight: bold; padding: 10px; margin: 10px;
+}
+.netucnytext{font-size: 20px; padding: 10px; margin:10px;
+}
+
+
+main{background-color:#2AF3FF; margin-top: 5px; margin-bottom: 5px;
+}
+footer{background-color:#1AE8B9 ; text-align: center ; margin-top: 5px; margin-bottom: 5px;
+}
+footer a {text-decoration: none; padding: 10px; margin: 10px
+}
+footer ul{ list-style-type: none;
+}
+
+.komentar{float: right;
+}
+
+#br{clear: both;
+}
+
+.center{font-weight:bold; text-decoration:none;  
+}
+
+.novastranka{page-break-before: always; 
+}
+.konecnovastranka{page-break-after: always;
+}
